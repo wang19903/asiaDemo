@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wang19903/asiaDemo/static/css/main.0dd5643d.css",
+    "main.js": "/wang19903/asiaDemo/static/js/main.b9c6c379.js",
+    "static/js/787.f055211e.chunk.js": "/wang19903/asiaDemo/static/js/787.f055211e.chunk.js",
+    "index.html": "/wang19903/asiaDemo/index.html",
+    "main.0dd5643d.css.map": "/wang19903/asiaDemo/static/css/main.0dd5643d.css.map",
+    "main.b9c6c379.js.map": "/wang19903/asiaDemo/static/js/main.b9c6c379.js.map",
+    "787.f055211e.chunk.js.map": "/wang19903/asiaDemo/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd5643d.css",
+    "static/js/main.b9c6c379.js"
+  ]
+}
